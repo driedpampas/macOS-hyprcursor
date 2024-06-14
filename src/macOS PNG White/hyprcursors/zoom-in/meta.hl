@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.38
+hotspot_y = 0.38
+
+define_size = 16, zoom-in_000.png, 20
+define_size = 20, zoom-in_001.png, 20
+define_size = 22, zoom-in_002.png, 20
+define_size = 24, zoom-in_003.png, 20
+define_size = 28, zoom-in_004.png, 20
+define_size = 32, zoom-in_005.png, 20
+define_size = 40, zoom-in_006.png, 20
+define_size = 48, zoom-in_007.png, 20
+define_size = 56, zoom-in_008.png, 20
+define_size = 64, zoom-in_009.png, 20
+define_size = 72, zoom-in_010.png, 20
+define_size = 80, zoom-in_011.png, 20
+define_size = 88, zoom-in_012.png, 20
+define_size = 96, zoom-in_013.png, 20
+

@@ -1,0 +1,20 @@
+resize_algorithm = none
+hotspot_x = 0.56
+hotspot_y = 0.44
+
+define_size = 16, sb_right_arrow_000.png, 20
+define_size = 20, sb_right_arrow_001.png, 20
+define_size = 22, sb_right_arrow_002.png, 20
+define_size = 24, sb_right_arrow_003.png, 20
+define_size = 28, sb_right_arrow_004.png, 20
+define_size = 32, sb_right_arrow_005.png, 20
+define_size = 40, sb_right_arrow_006.png, 20
+define_size = 48, sb_right_arrow_007.png, 20
+define_size = 56, sb_right_arrow_008.png, 20
+define_size = 64, sb_right_arrow_009.png, 20
+define_size = 72, sb_right_arrow_010.png, 20
+define_size = 80, sb_right_arrow_011.png, 20
+define_size = 88, sb_right_arrow_012.png, 20
+define_size = 96, sb_right_arrow_013.png, 20
+
+define_override = right-arrow

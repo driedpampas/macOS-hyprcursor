@@ -1,0 +1,28 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_size = 16, sb_v_double_arrow_000.png, 20
+define_size = 20, sb_v_double_arrow_001.png, 20
+define_size = 22, sb_v_double_arrow_002.png, 20
+define_size = 24, sb_v_double_arrow_003.png, 20
+define_size = 28, sb_v_double_arrow_004.png, 20
+define_size = 32, sb_v_double_arrow_005.png, 20
+define_size = 40, sb_v_double_arrow_006.png, 20
+define_size = 48, sb_v_double_arrow_007.png, 20
+define_size = 56, sb_v_double_arrow_008.png, 20
+define_size = 64, sb_v_double_arrow_009.png, 20
+define_size = 72, sb_v_double_arrow_010.png, 20
+define_size = 80, sb_v_double_arrow_011.png, 20
+define_size = 88, sb_v_double_arrow_012.png, 20
+define_size = 96, sb_v_double_arrow_013.png, 20
+
+define_override = 00008160000006810000408080010102
+define_override = 2870a09082c103050810ffdffffe0204
+define_override = double_arrow
+define_override = split_v
+define_override = ns-resize
+define_override = row-resize
+define_override = v_double_arrow
+define_override = size_ver
+define_override = size-ver

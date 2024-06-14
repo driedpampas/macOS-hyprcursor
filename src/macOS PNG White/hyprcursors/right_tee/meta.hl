@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.38
+hotspot_y = 0.44
+
+define_size = 16, right_tee_000.png, 20
+define_size = 20, right_tee_001.png, 20
+define_size = 22, right_tee_002.png, 20
+define_size = 24, right_tee_003.png, 20
+define_size = 28, right_tee_004.png, 20
+define_size = 32, right_tee_005.png, 20
+define_size = 40, right_tee_006.png, 20
+define_size = 48, right_tee_007.png, 20
+define_size = 56, right_tee_008.png, 20
+define_size = 64, right_tee_009.png, 20
+define_size = 72, right_tee_010.png, 20
+define_size = 80, right_tee_011.png, 20
+define_size = 88, right_tee_012.png, 20
+define_size = 96, right_tee_013.png, 20
+

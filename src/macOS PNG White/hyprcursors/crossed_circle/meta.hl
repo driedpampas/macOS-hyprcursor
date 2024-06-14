@@ -1,0 +1,23 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.06
+
+define_size = 16, crossed_circle_000.png, 20
+define_size = 20, crossed_circle_001.png, 20
+define_size = 22, crossed_circle_002.png, 20
+define_size = 24, crossed_circle_003.png, 20
+define_size = 28, crossed_circle_004.png, 20
+define_size = 32, crossed_circle_005.png, 20
+define_size = 40, crossed_circle_006.png, 20
+define_size = 48, crossed_circle_007.png, 20
+define_size = 56, crossed_circle_008.png, 20
+define_size = 64, crossed_circle_009.png, 20
+define_size = 72, crossed_circle_010.png, 20
+define_size = 80, crossed_circle_011.png, 20
+define_size = 88, crossed_circle_012.png, 20
+define_size = 96, crossed_circle_013.png, 20
+
+define_override = forbidden
+define_override = 03b6e0fcb3499374a867c041f52298f0
+define_override = circle
+define_override = not-allowed

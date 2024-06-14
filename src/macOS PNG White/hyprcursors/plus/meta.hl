@@ -1,0 +1,20 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_size = 16, plus_000.png, 20
+define_size = 20, plus_001.png, 20
+define_size = 22, plus_002.png, 20
+define_size = 24, plus_003.png, 20
+define_size = 28, plus_004.png, 20
+define_size = 32, plus_005.png, 20
+define_size = 40, plus_006.png, 20
+define_size = 48, plus_007.png, 20
+define_size = 56, plus_008.png, 20
+define_size = 64, plus_009.png, 20
+define_size = 72, plus_010.png, 20
+define_size = 80, plus_011.png, 20
+define_size = 88, plus_012.png, 20
+define_size = 96, plus_013.png, 20
+
+define_override = cell

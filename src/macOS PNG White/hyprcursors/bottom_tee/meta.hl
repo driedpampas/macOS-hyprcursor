@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.50
+
+define_size = 16, bottom_tee_000.png, 20
+define_size = 20, bottom_tee_001.png, 20
+define_size = 22, bottom_tee_002.png, 20
+define_size = 24, bottom_tee_003.png, 20
+define_size = 28, bottom_tee_004.png, 20
+define_size = 32, bottom_tee_005.png, 20
+define_size = 40, bottom_tee_006.png, 20
+define_size = 48, bottom_tee_007.png, 20
+define_size = 56, bottom_tee_008.png, 20
+define_size = 64, bottom_tee_009.png, 20
+define_size = 72, bottom_tee_010.png, 20
+define_size = 80, bottom_tee_011.png, 20
+define_size = 88, bottom_tee_012.png, 20
+define_size = 96, bottom_tee_013.png, 20
+

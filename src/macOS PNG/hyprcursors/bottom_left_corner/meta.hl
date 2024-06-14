@@ -1,0 +1,26 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_size = 16, bottom_left_corner_000.png, 20
+define_size = 20, bottom_left_corner_001.png, 20
+define_size = 22, bottom_left_corner_002.png, 20
+define_size = 24, bottom_left_corner_003.png, 20
+define_size = 28, bottom_left_corner_004.png, 20
+define_size = 32, bottom_left_corner_005.png, 20
+define_size = 40, bottom_left_corner_006.png, 20
+define_size = 48, bottom_left_corner_007.png, 20
+define_size = 56, bottom_left_corner_008.png, 20
+define_size = 64, bottom_left_corner_009.png, 20
+define_size = 72, bottom_left_corner_010.png, 20
+define_size = 80, bottom_left_corner_011.png, 20
+define_size = 88, bottom_left_corner_012.png, 20
+define_size = 96, bottom_left_corner_013.png, 20
+
+define_override = size_bdiag
+define_override = nesw-resize
+define_override = fd_double_arrow
+define_override = ne-resize
+define_override = top_right_corner
+define_override = sw-resize
+define_override = fcf1c3c7cd4491d801f1e1c78f100000

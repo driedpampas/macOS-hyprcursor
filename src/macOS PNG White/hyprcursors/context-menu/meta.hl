@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.12
+hotspot_y = 0.12
+
+define_size = 16, context-menu_000.png, 20
+define_size = 20, context-menu_001.png, 20
+define_size = 22, context-menu_002.png, 20
+define_size = 24, context-menu_003.png, 20
+define_size = 28, context-menu_004.png, 20
+define_size = 32, context-menu_005.png, 20
+define_size = 40, context-menu_006.png, 20
+define_size = 48, context-menu_007.png, 20
+define_size = 56, context-menu_008.png, 20
+define_size = 64, context-menu_009.png, 20
+define_size = 72, context-menu_010.png, 20
+define_size = 80, context-menu_011.png, 20
+define_size = 88, context-menu_012.png, 20
+define_size = 96, context-menu_013.png, 20
+
