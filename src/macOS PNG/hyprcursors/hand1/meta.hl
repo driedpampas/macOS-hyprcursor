@@ -1,0 +1,21 @@
+resize_algorithm = none
+hotspot_x = 0.50
+hotspot_y = 0.31
+
+define_size = 16, hand1_000.png, 20
+define_size = 20, hand1_001.png, 20
+define_size = 22, hand1_002.png, 20
+define_size = 24, hand1_003.png, 20
+define_size = 28, hand1_004.png, 20
+define_size = 32, hand1_005.png, 20
+define_size = 40, hand1_006.png, 20
+define_size = 48, hand1_007.png, 20
+define_size = 56, hand1_008.png, 20
+define_size = 64, hand1_009.png, 20
+define_size = 72, hand1_010.png, 20
+define_size = 80, hand1_011.png, 20
+define_size = 88, hand1_012.png, 20
+define_size = 96, hand1_013.png, 20
+
+define_override = grab
+define_override = openhand

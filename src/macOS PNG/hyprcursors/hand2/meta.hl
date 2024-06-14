@@ -1,0 +1,23 @@
+resize_algorithm = none
+hotspot_x = 0.31
+hotspot_y = 0.19
+
+define_size = 16, hand2_000.png, 20
+define_size = 20, hand2_001.png, 20
+define_size = 22, hand2_002.png, 20
+define_size = 24, hand2_003.png, 20
+define_size = 28, hand2_004.png, 20
+define_size = 32, hand2_005.png, 20
+define_size = 40, hand2_006.png, 20
+define_size = 48, hand2_007.png, 20
+define_size = 56, hand2_008.png, 20
+define_size = 64, hand2_009.png, 20
+define_size = 72, hand2_010.png, 20
+define_size = 80, hand2_011.png, 20
+define_size = 88, hand2_012.png, 20
+define_size = 96, hand2_013.png, 20
+
+define_override = 9d800788f1b08800ae810202380a0822
+define_override = pointer
+define_override = pointing_hand
+define_override = e29285e634086352946a0e7090d73106

@@ -1,0 +1,23 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.06
+
+define_size = 16, copy_000.png, 20
+define_size = 20, copy_001.png, 20
+define_size = 22, copy_002.png, 20
+define_size = 24, copy_003.png, 20
+define_size = 28, copy_004.png, 20
+define_size = 32, copy_005.png, 20
+define_size = 40, copy_006.png, 20
+define_size = 48, copy_007.png, 20
+define_size = 56, copy_008.png, 20
+define_size = 64, copy_009.png, 20
+define_size = 72, copy_010.png, 20
+define_size = 80, copy_011.png, 20
+define_size = 88, copy_012.png, 20
+define_size = 96, copy_013.png, 20
+
+define_override = dnd-copy
+define_override = b66166c04f8c3109214a4fbd64a50fc8
+define_override = 6407b0e94181790501fd1e167b474872
+define_override = 1081e37283d90000800003c07f3ef6bf

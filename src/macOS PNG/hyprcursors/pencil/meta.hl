@@ -1,0 +1,20 @@
+resize_algorithm = none
+hotspot_x = 0.12
+hotspot_y = 0.81
+
+define_size = 16, pencil_000.png, 20
+define_size = 20, pencil_001.png, 20
+define_size = 22, pencil_002.png, 20
+define_size = 24, pencil_003.png, 20
+define_size = 28, pencil_004.png, 20
+define_size = 32, pencil_005.png, 20
+define_size = 40, pencil_006.png, 20
+define_size = 48, pencil_007.png, 20
+define_size = 56, pencil_008.png, 20
+define_size = 64, pencil_009.png, 20
+define_size = 72, pencil_010.png, 20
+define_size = 80, pencil_011.png, 20
+define_size = 88, pencil_012.png, 20
+define_size = 96, pencil_013.png, 20
+
+define_override = draft

@@ -1,0 +1,23 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_size = 16, dotbox_000.png, 20
+define_size = 20, dotbox_001.png, 20
+define_size = 22, dotbox_002.png, 20
+define_size = 24, dotbox_003.png, 20
+define_size = 28, dotbox_004.png, 20
+define_size = 32, dotbox_005.png, 20
+define_size = 40, dotbox_006.png, 20
+define_size = 48, dotbox_007.png, 20
+define_size = 56, dotbox_008.png, 20
+define_size = 64, dotbox_009.png, 20
+define_size = 72, dotbox_010.png, 20
+define_size = 80, dotbox_011.png, 20
+define_size = 88, dotbox_012.png, 20
+define_size = 96, dotbox_013.png, 20
+
+define_override = dot_box_mask
+define_override = icon
+define_override = target
+define_override = draped_box

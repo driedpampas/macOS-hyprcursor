@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.50
+hotspot_y = 0.12
+
+define_size = 16, center_ptr_000.png, 20
+define_size = 20, center_ptr_001.png, 20
+define_size = 22, center_ptr_002.png, 20
+define_size = 24, center_ptr_003.png, 20
+define_size = 28, center_ptr_004.png, 20
+define_size = 32, center_ptr_005.png, 20
+define_size = 40, center_ptr_006.png, 20
+define_size = 48, center_ptr_007.png, 20
+define_size = 56, center_ptr_008.png, 20
+define_size = 64, center_ptr_009.png, 20
+define_size = 72, center_ptr_010.png, 20
+define_size = 80, center_ptr_011.png, 20
+define_size = 88, center_ptr_012.png, 20
+define_size = 96, center_ptr_013.png, 20
+

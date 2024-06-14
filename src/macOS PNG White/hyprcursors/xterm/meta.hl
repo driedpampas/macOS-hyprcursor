@@ -1,0 +1,21 @@
+resize_algorithm = none
+hotspot_x = 0.50
+hotspot_y = 0.50
+
+define_size = 16, xterm_000.png, 20
+define_size = 20, xterm_001.png, 20
+define_size = 22, xterm_002.png, 20
+define_size = 24, xterm_003.png, 20
+define_size = 28, xterm_004.png, 20
+define_size = 32, xterm_005.png, 20
+define_size = 40, xterm_006.png, 20
+define_size = 48, xterm_007.png, 20
+define_size = 56, xterm_008.png, 20
+define_size = 64, xterm_009.png, 20
+define_size = 72, xterm_010.png, 20
+define_size = 80, xterm_011.png, 20
+define_size = 88, xterm_012.png, 20
+define_size = 96, xterm_013.png, 20
+
+define_override = ibeam
+define_override = text

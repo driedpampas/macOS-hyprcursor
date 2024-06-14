@@ -1,0 +1,21 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_size = 16, X_cursor_000.png, 20
+define_size = 20, X_cursor_001.png, 20
+define_size = 22, X_cursor_002.png, 20
+define_size = 24, X_cursor_003.png, 20
+define_size = 28, X_cursor_004.png, 20
+define_size = 32, X_cursor_005.png, 20
+define_size = 40, X_cursor_006.png, 20
+define_size = 48, X_cursor_007.png, 20
+define_size = 56, X_cursor_008.png, 20
+define_size = 64, X_cursor_009.png, 20
+define_size = 72, X_cursor_010.png, 20
+define_size = 80, X_cursor_011.png, 20
+define_size = 88, X_cursor_012.png, 20
+define_size = 96, X_cursor_013.png, 20
+
+define_override = pirate
+define_override = x-cursor

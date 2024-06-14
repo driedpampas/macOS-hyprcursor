@@ -1,0 +1,22 @@
+resize_algorithm = none
+hotspot_x = 0.31
+hotspot_y = 0.12
+
+define_size = 16, left_ptr_000.png, 20
+define_size = 20, left_ptr_001.png, 20
+define_size = 22, left_ptr_002.png, 20
+define_size = 24, left_ptr_003.png, 20
+define_size = 28, left_ptr_004.png, 20
+define_size = 32, left_ptr_005.png, 20
+define_size = 40, left_ptr_006.png, 20
+define_size = 48, left_ptr_007.png, 20
+define_size = 56, left_ptr_008.png, 20
+define_size = 64, left_ptr_009.png, 20
+define_size = 72, left_ptr_010.png, 20
+define_size = 80, left_ptr_011.png, 20
+define_size = 88, left_ptr_012.png, 20
+define_size = 96, left_ptr_013.png, 20
+
+define_override = arrow
+define_override = default
+define_override = top_left_arrow

@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.50
+hotspot_y = 0.50
+
+define_size = 16, vertical-text_000.png, 20
+define_size = 20, vertical-text_001.png, 20
+define_size = 22, vertical-text_002.png, 20
+define_size = 24, vertical-text_003.png, 20
+define_size = 28, vertical-text_004.png, 20
+define_size = 32, vertical-text_005.png, 20
+define_size = 40, vertical-text_006.png, 20
+define_size = 48, vertical-text_007.png, 20
+define_size = 56, vertical-text_008.png, 20
+define_size = 64, vertical-text_009.png, 20
+define_size = 72, vertical-text_010.png, 20
+define_size = 80, vertical-text_011.png, 20
+define_size = 88, vertical-text_012.png, 20
+define_size = 96, vertical-text_013.png, 20
+

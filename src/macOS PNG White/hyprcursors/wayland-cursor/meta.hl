@@ -1,0 +1,19 @@
+resize_algorithm = none
+hotspot_x = 0.44
+hotspot_y = 0.44
+
+define_size = 16, wayland-cursor_000.png, 20
+define_size = 20, wayland-cursor_001.png, 20
+define_size = 22, wayland-cursor_002.png, 20
+define_size = 24, wayland-cursor_003.png, 20
+define_size = 28, wayland-cursor_004.png, 20
+define_size = 32, wayland-cursor_005.png, 20
+define_size = 40, wayland-cursor_006.png, 20
+define_size = 48, wayland-cursor_007.png, 20
+define_size = 56, wayland-cursor_008.png, 20
+define_size = 64, wayland-cursor_009.png, 20
+define_size = 72, wayland-cursor_010.png, 20
+define_size = 80, wayland-cursor_011.png, 20
+define_size = 88, wayland-cursor_012.png, 20
+define_size = 96, wayland-cursor_013.png, 20
+

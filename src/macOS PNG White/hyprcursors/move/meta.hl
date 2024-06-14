@@ -1,0 +1,27 @@
+resize_algorithm = none
+hotspot_x = 0.50
+hotspot_y = 0.31
+
+define_size = 16, move_000.png, 20
+define_size = 20, move_001.png, 20
+define_size = 22, move_002.png, 20
+define_size = 24, move_003.png, 20
+define_size = 28, move_004.png, 20
+define_size = 32, move_005.png, 20
+define_size = 40, move_006.png, 20
+define_size = 48, move_007.png, 20
+define_size = 56, move_008.png, 20
+define_size = 64, move_009.png, 20
+define_size = 72, move_010.png, 20
+define_size = 80, move_011.png, 20
+define_size = 88, move_012.png, 20
+define_size = 96, move_013.png, 20
+
+define_override = closedhand
+define_override = grabbing
+define_override = dnd-move
+define_override = 4498f0e0c1937ffe01fd06f973665830
+define_override = pointer_move
+define_override = 9081237383d90e509aa00f00170e968f
+define_override = fcf21c00b30f7e3f83fe0dfd12e71cff
+define_override = dnd-none
